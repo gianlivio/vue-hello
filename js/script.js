@@ -4,7 +4,7 @@ createApp({
     data() {
         return {
             message: 'ciaooo',
-            image: ''  
+            image: './img/aaa.png'  
         };
     }
 }).mount('#app');
